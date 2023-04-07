@@ -6,6 +6,7 @@
 -->
 
 # Hello GitHub Actions
+hello world
 
 _Create a GitHub Action and use it in a workflow._
 
